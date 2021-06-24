@@ -1,0 +1,9 @@
+{"editor.tokenColorCustomizations": {
+    "comments": "#7ceead", // 注释
+      "keywords": "#fae101", // 关键字
+      "variables": "#f33d3d", // 变量名
+      "strings": "#0fd8ceb0", // 字符串
+      "functions": "#a9a5e4",// 函数名
+      "numbers": "#5de664" // 数字
+  },
+}
